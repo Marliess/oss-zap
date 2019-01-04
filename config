@@ -10,7 +10,7 @@
 10017	WARN	(Cross-Domain JavaScript Source File Inclusion)
 10019	WARN	(Content-Type Header Missing)
 10020	WARN	(X-Frame-Options Header Scanner)
-10021	IGNORE	(X-Content-Type-Options Header Missing)
+10021	WARN	(X-Content-Type-Options Header Missing)
 10023	WARN	(Information Disclosure - Debug Error Messages)
 10024	WARN	(Information Disclosure - Sensitive Informations in URL)
 10025	WARN	(Information Disclosure - Sensitive Information in HTTP Referrer Header)
